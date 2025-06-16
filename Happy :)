@@ -1,0 +1,5 @@
+DELTA ONLY:
+loadstring(game:HttpGet("https://raw.githubusercontent.com/skibidiscriptyt/Dark-Spawner/refs/heads/main/Gaga/Spawners/Grow-A-Garden/SP%231%232%23GSPS57",true))()
+
+ALL EXECUTORS BUT NOT DELTA:
+loadstring(game:HttpGet("https://raw.githubusercontent.com/skibidiscriptyt/Dark-Spawner-Two/refs/heads/main/Gaga/Spawners/Grow-A-Garden%20/SP%231%232%23GSPS58",true))()
